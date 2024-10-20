@@ -1,5 +1,3 @@
-
-
 window.onload = function () {
   const outputElement = document.getElementById("output");
 
@@ -72,4 +70,4 @@ window.onload = function () {
 
     outputElement.appendChild(totalRow);
   });
-};//your JS code here. If required.
+};
